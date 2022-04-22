@@ -1,0 +1,23 @@
+.UserInfo {
+    padding-top: 6px;
+    border-radius: 15px;
+    width: 80px;
+    border-color: azure;
+    border: 1px solid;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 20px;
+   
+}
+.UserInfo-name {
+    margin: 6px;
+    
+}
+.comment{
+    margin: 10px;
+    padding-top: 8px;
+    width: 120px;
+    height: 140px;
+    font-size: 20px;
+    background-color: coral;
+}
